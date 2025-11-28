@@ -1,0 +1,9 @@
+{
+  "r2": "0.9921",
+  "mae": "0.9466 mm",
+  "rmse": "1.1591 mm",
+  "improvement": "+91.1%",
+  "r2_delta": "\u2191 +99.2%",
+  "test_size": 885,
+  "baseline_rmse": "13.0087 mm"
+}
