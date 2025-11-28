@@ -181,6 +181,9 @@ Features:
 * ✔ Forecast next-day inflow predictions
 * ✔ Designed for multi-day GNN expansion
 
+# Flood Graph Streamlit App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://floodgraph-gkrxwt2uitmrdilfh5dhav.streamlit.app/)
+
 ## **🧬 Graph Intelligence Approach**
 * Spatial edges: nearest neighbors on the same day
 * Temporal edges: same grid cell across days
@@ -210,9 +213,6 @@ This project demonstrates:
 | Geo-map rainfall visualization      | 🔄 Planned |
 | Cloud deployment (AWS/GCP)          | 🔄 Planned |
 
-# Flood Graph Streamlit App
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://floodgraph-gkrxwt2uitmrdilfh5dhav.streamlit.app/)
-
 ## 👩‍💻 Author
 
 * Simhadri Praveena
@@ -221,3 +221,4 @@ This project demonstrates:
 * Indian Institute of Technology (IIT) Kharagpur
 
 * Research Interests: Machine Learning, Graph Neural Networks, Data Science, Climate AI
+
