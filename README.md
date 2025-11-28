@@ -210,6 +210,8 @@ This project demonstrates:
 | Geo-map rainfall visualization      | 🔄 Planned |
 | Cloud deployment (AWS/GCP)          | 🔄 Planned |
 
+# Flood Graph Streamlit App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://floodgraph-gkrxwt2uitmrdilfh5dhav.streamlit.app/)
 
 ## 👩‍💻 Author
 
@@ -217,4 +219,5 @@ This project demonstrates:
 * Software Development Engineer (SDE) — BlueFlag Security
 * Department of Computer Science and Engineering
 * Indian Institute of Technology (IIT) Kharagpur
+
 * Research Interests: Machine Learning, Graph Neural Networks, Data Science, Climate AI
