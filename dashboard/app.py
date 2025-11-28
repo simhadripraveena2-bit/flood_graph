@@ -201,7 +201,7 @@ if 'predictions' in st.session_state:
 # Footer
 st.markdown("---")
 st.markdown("""
-**🌟 PhD Interview Ready** | GNN Flood Predictor R²=0.9921 | University of Florida Application
+**🌟 MTech Project Improve** | GNN Flood Predictor R²=0.9921
 **Publication metrics**: MAE=0.95mm, RMSE=1.16mm, +91% improvement
 """)
 
@@ -213,3 +213,4 @@ with st.expander("🚀 Usage"):
     4. 🎯 View test performance (Tab 2)
     5. 📊 Download results
     """)
+
