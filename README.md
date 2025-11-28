@@ -1,17 +1,17 @@
 # **Flood Graph Project**
 ##### **Spatio-Temporal Graph Modeling and Prediction of Rainfall and Inflow Patterns**
 
-## **Overview**
-This project explores spatio-temporal analysis and graph-based modeling of rainfall and inflow patterns using real-world hydrological data.
+## **🔍 Objective**
+Flood prediction is a major climate-risk challenge globally.
+This project builds a spatio-temporal ML pipeline to predict next-day river inflow using:
 
-It demonstrates a full machine learning and graph neural network pipeline from preprocessing and clustering to baseline prediction and GNN-based temporal forecasting.
+✔ Graph Neural Networks (GNNs) for spatial-temporal learning
+✔ RandomForest baseline for benchmarking
+✔ Interactive Streamlit dashboard
+✔ Real rainfall geospatial grid data
 
-You can use this project to:
-
-* Detect spatially and temporally coherent rainfall clusters
-* Construct region-wise rainfall graphs
-* Predict inflow based on rainfall distribution and time evolution
-* Experiment with Graph Neural Networks (GNNs) for scientific modeling
+Forecasting horizon: +1 day ahead inflow
+Data granularity: Latitude × Longitude rainfall grid per day
 
 ## **Project Structure**
 flood_prediction/
@@ -107,4 +107,5 @@ Potential research directions:
 #### **Simhadri Praveena**
 #### **Department of Computer Science and Engineering**
 #### **IIT Kharagpur**
+
 #### **Research Interests: Machine Learning, Data Science**
